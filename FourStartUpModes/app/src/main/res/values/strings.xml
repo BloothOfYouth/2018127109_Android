@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FourStartUpModes</string>
+    <string name="button1">MainActivityToSecondActivity</string>
+    <string name="button2">SecondActivityToMainActivity</string>
+</resources>
