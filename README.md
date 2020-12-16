@@ -22,7 +22,7 @@
 
 ## IntentApplications
 
-[作业四入口](https://github.com/BloothOfYouth/2018127109_Android/tree/master/Broadcast)
+[作业四入口](https://github.com/BloothOfYouth/2018127109_Android/tree/master/IntentApplications)
 
 
 
