@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ServiceOfAndroid</string>
+    <string name="change_text">Change Text</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="start_service">Start Service</string>
+    <string name="bind_service">Bind Service</string>
+    <string name="unbind_service">Unbind Service</string>
+</resources>
