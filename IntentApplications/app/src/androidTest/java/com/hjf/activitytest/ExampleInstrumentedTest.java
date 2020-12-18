@@ -1,4 +1,4 @@
-package com.yxj.activitytest;
+package com.hjf.activitytest;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.yxj.activitytest", appContext.getPackageName());
+        assertEquals("com.hjf.activitytest", appContext.getPackageName());
     }
 }

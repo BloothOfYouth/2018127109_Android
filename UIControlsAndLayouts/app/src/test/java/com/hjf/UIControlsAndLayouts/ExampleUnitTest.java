@@ -1,4 +1,4 @@
-package com.hjf.uiwidgettest;
+package com.hjf.UIControlsAndLayouts;
 
 import org.junit.Test;
 

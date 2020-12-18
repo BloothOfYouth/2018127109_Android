@@ -10,7 +10,10 @@
        android:id="@+id/button_1"
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
-       android:text="Button_1">
+       android:text="@string/button_1"
+       app:layout_constraintBottom_toBottomOf="parent"
+       app:layout_constraintTop_toTopOf="parent"
+       tools:layout_editor_absoluteX="0dp">
 
    </Button>
 </androidx.constraintlayout.widget.ConstraintLayout>

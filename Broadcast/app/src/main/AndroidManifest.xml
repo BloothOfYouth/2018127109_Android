@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.yxj.broadcasttest">
+    package="com.hjf.broadcasttest">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
 
     <application
         android:allowBackup="true"
@@ -14,7 +16,7 @@
             android:enabled="true"
             android:exported="true">
             <intent-filter android:priority="100">
-                <action android:name="com.yxj.broadcasttest.MY_BROADCAST"></action>
+                <action android:name="com.hjf.broadcasttest.MY_BROADCAST"></action>
             </intent-filter>
         </receiver>
 
