@@ -22,14 +22,14 @@
     <string name="about_version">版本</string>
     <string name="about_1">1.n</string>
     <string name="about_app">关于应用</string>
-    <string name="about_balabala">本项目参照 \nhttps://www.bilibili.com/video/BV1hZ4y1V7E3?p=4 \n原作者为b站up主：写bug的狐狸 \n优化一些细节，如记一笔的时间和备注回写，日历中只显示有的月份，记账首页以时间降序排序</string>
+    <string name="about_balabala">本项目参照 \nhttps://www.bilibili.com/video/BV1hZ4y1V7E3?p=4 \n原作者为b站up主：写bug的狐狸 \n优化一些细节，如记一笔的时间和备注回写，日历中只显示有的月份，记账首页以时间降序排序等</string>
     <string name="about_developer">开发者</string>
     <string name="about_me">关于我</string>
     <string name="about_loc">一个不知名的二本的学生，程序员(＠_＠;)，爱好吉他 🎸</string>
     <string name="about_email">发送邮件</string>
     <string name="about_email2">我的邮箱是: 就不告诉你 (　o=^•ェ•)o┏━┓</string>
     <string name="about_code">源代码</string>
-    <string name="about_code_info">我的代码托管在码云服务器上，地址链接为：\nhttps://gitee.com/happyanimee/simple-bookkeeping</string>
+    <string name="about_code_info">我的代码托管在码云服务器上，地址链接为：\nhttps://github.com/BloothOfYouth/2018127109_Android/tree/master/Tally</string>
 
     <string name="history_info">本月账单记录</string>
     <string name="clear_all">清空所有记录</string>

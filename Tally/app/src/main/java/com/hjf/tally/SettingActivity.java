@@ -32,7 +32,7 @@ public class SettingActivity extends AppCompatActivity {
     private void showDeleteDialog() {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle("删除提示")
-                .setMessage("你确定要删除所有记录？ \n注意：删除后无法恢复，请慎重选择！")
+                .setMessage("你确定要删除所有记录？(っ °Д °;)っ \n注意：删除后无法恢复，请慎重选择！")
                 .setPositiveButton("取消", null)
                 .setNegativeButton("确定", new DialogInterface.OnClickListener() {
                     @Override
