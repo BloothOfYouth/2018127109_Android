@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:background="@color/white">
+
+    <HorizontalScrollView
+        android:id="@+id/dialog_calendar_hsv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/dialog_calendar_ly"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+    <GridView
+        android:id="@+id/dialog_calendar_gv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:numColumns="4"
+        android:visibility="gone">
+
+    </GridView>
+
+    <TextView
+        android:id="@+id/dialog_calendar_tv_empty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/all_date_empty"
+        android:gravity="center"
+        android:drawableTop="@mipmap/it_searchtext"
+        android:padding="10dp"
+        android:textSize="20sp">
+
+    </TextView>
+
+    <ImageView
+        android:id="@+id/dialog_calendar_iv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ih_error"
+        android:padding="20dp">
+
+    </ImageView>
+
+</LinearLayout>

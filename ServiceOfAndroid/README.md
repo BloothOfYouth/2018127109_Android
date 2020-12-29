@@ -168,7 +168,7 @@ Android中的异步消息处理机制主要由四个部分组成，Message、Han
   - Progress：后台任务执行时，如果需要在界面上显示当前的进度，则使用这里指定的泛型作为进度单位。
   - Result：当任务执行完毕后，如果需要对结果进行返回，则使用这里指定的泛型作为返回值类型。
 
-```
+```java
 class DownloadTask extends AsyncTask<Void,Integer,Boolean>{
     ......
 }
